@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Staging</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\moham\\Katalon Studio\\Todo_2.0_APKPure.apk'</initValue>
+      <name>APK</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'com.avinashproduct.todo'</initValue>
+      <name>apk</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

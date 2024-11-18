@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify Add Catagory Successuflly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c60b6611-fe10-409d-8b96-4e4454c681da</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>514b06e6-e998-47fa-834e-ea877d02329b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Bootcamp'</defaultValue>
+      <description></description>
+      <id>514b06e6-e998-47fa-834e-ea877d02329b</id>
+      <masked>false</masked>
+      <name>AddCatagorys</name>
+   </variable>
+</TestCaseEntity>

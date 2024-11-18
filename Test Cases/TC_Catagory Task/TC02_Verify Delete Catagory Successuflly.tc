@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Verify Delete Catagory Successuflly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e63f7d3-49a1-4d18-935f-6df4df705ea6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4b334e7-8b02-4862-b497-6d2927d8d77c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>030cab63-0f56-45b5-a499-30b26055a9a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Bootcamp'</defaultValue>
+      <description></description>
+      <id>a4b334e7-8b02-4862-b497-6d2927d8d77c</id>
+      <masked>false</masked>
+      <name>AddCatagorys</name>
+   </variable>
+   <variable>
+      <defaultValue>'Banking'</defaultValue>
+      <description></description>
+      <id>030cab63-0f56-45b5-a499-30b26055a9a0</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>
