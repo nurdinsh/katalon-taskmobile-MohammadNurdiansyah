@@ -21,10 +21,10 @@ import org.openqa.selenium.Keys as Keys
 Mobile.startApplication(GlobalVariable.APK, true)
 
 'step 2'
-Mobile.tap(findTestObject('Home Screen/android.widget.Button - OK'))
+Mobile.tap(findTestObject('Home Screen/android.widget.Button - OK'),0)
 
 'step 3'
-Mobile.tap(findTestObject('Home Screen/android.widget.TextView - Skip'), 2)
+Mobile.tap(findTestObject('Home Screen/android.widget.TextView - Skip'), 0)
 
 'step 4'
 Mobile.verifyElementText(findTestObject('Object Repository/Dashboard/android.widget.TextView - No task to show'), 'No task to show')
