@@ -128,7 +128,6 @@ String eMonth = Month
 
 String eYear = Year
 
-'step 16'
 while (!(cMonth.equals(eMonth)) || !(cYear.equals(eYear))) {
     String strDate = Datess
 
