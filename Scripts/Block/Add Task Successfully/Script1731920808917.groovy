@@ -35,12 +35,6 @@ Mobile.setText(findTestObject('Add Task/android.widget.EditText - Enter your tas
 'step 6'
 Mobile.tap(findTestObject('Add Task/android.widget.EditText - Set Date'), 0)
 
-'step 7'
-String strDate = Dates
-
-'step 8'
-Mobile.tap(findTestObject('Add Task/Date/android.view.View - Date', [('date') : strDate]), 0)
-
 'step 9'
 Mobile.verifyElementVisible(findTestObject('Add Task/Date/android.widget.LinearLayout'), 0)
 
@@ -49,25 +43,6 @@ Mobile.tap(findTestObject('Add Task/Date/android.widget.Button - OK'), 0)
 
 'step 11'
 Mobile.tap(findTestObject('Add Task/android.widget.EditText - Set Time'), 0)
-
-'step 12'
-if (PetunjukWaktu == 'AM') {
-    Mobile.tap(findTestObject('Add Task/Time/android.widget.RadioButton - AM'), 0, FailureHandling.STOP_ON_FAILURE)
-} else {
-    Mobile.tap(findTestObject('Add Task/Time/android.widget.RadioButton - PM'), 0, FailureHandling.STOP_ON_FAILURE)
-}
-
-'step 13'
-String strHour = Hours
-
-'step 14'
-Mobile.tap(findTestObject('Add Task/Time/android.widget.RadialTimePickerView - Hour', [('hour') : strHour]), 0, FailureHandling.STOP_ON_FAILURE)
-
-'step 15'
-String strMinute = Minutes
-
-'step 16'
-Mobile.tap(findTestObject('Add Task/Time/android.widget.RadialTimePickerView - Minute', [('minute') : strMinute]), 0, FailureHandling.STOP_ON_FAILURE)
 
 'step 17'
 Mobile.tap(findTestObject('Add Task/Time/android.widget.Button - OK'), 0)
@@ -88,5 +63,5 @@ Mobile.tap(findTestObject('Add Task/android.widget.AccButton'), 0)
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 'step 23'
-Mobile.tap(findTestObject('Dashboard/Layout/android.widget.RelativeLayout'), 0)
+Mobile.tap(findTestObject('Dashboard/Taks/android.widget.RelativeLayout'), 0)
 

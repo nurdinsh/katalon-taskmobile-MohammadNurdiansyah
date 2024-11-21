@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.TextView - Sun, Nov 17</name>
    <tag></tag>
-   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <elementGuidId>1d02370f-4da6-426c-8b5c-7b9e005ec05b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>f7c995c9-cfdf-484f-84b3-d79e4ff4f0d1</webElementGuid>
+      <webElementGuid>ab301cfe-a6b3-41f6-bf07-b139a9e24d8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>8b17b673-30f7-4d94-a8eb-08cf7e68ac9f</webElementGuid>
+      <webElementGuid>aabd5801-41ab-4d86-a55c-dec3eba7b0ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sun, Nov 17</value>
-      <webElementGuid>b3bac5a4-21ae-4a60-98cc-7684b786a814</webElementGuid>
+      <webElementGuid>9c7352f6-dc74-4484-a82b-9d4466cafba2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>android:id/date_picker_header_date</value>
-      <webElementGuid>15304f1f-bf16-427e-8065-e8f86f0d3fcb</webElementGuid>
+      <webElementGuid>5e85e403-6d9f-4959-8af5-749c94fe0e8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.avinashproduct.todo</value>
-      <webElementGuid>d0343d5a-165c-48e6-891d-13e7ba838a24</webElementGuid>
+      <webElementGuid>e60d521a-d8fa-46c1-939e-d0c907e247f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b030d0b0-2610-455e-a944-b529233c7900</webElementGuid>
+      <webElementGuid>df3a8763-cf59-4f6b-b3a4-5b51ab31773c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>af5ec977-f03e-44ba-9388-e2b5c32c595b</webElementGuid>
+      <webElementGuid>5ac756cc-2920-4049-bac4-4be1fdc61e73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>86f2da53-f4a8-4087-a771-2696576f6051</webElementGuid>
+      <webElementGuid>53c59091-5f2a-42b3-9574-41fc428024c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ef75c18b-282e-44d8-b45e-56b705a3b945</webElementGuid>
+      <webElementGuid>a1dd56af-52a5-467f-b003-c8a50829338c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ee40ec1d-8bc9-4bf8-b4dd-74f6225988e4</webElementGuid>
+      <webElementGuid>a4093882-23f8-4a3d-9573-699fb6ba136f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7ab3eacb-6f37-40f4-b85a-5a4b4b2b4182</webElementGuid>
+      <webElementGuid>e0b04ee5-0c4e-4cf0-b7c4-d224fa1feb35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>04047e16-d3bf-40eb-a355-5b56b68d4539</webElementGuid>
+      <webElementGuid>b006fd7c-aa78-40c0-a080-f719f8dfddab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5d479654-f9a3-42f4-a5fb-afac9885f432</webElementGuid>
+      <webElementGuid>8db5612c-36c8-4a97-a9b7-ec4855b44f5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5fbaf83f-dfd3-4122-ac58-eb4aa65a68f5</webElementGuid>
+      <webElementGuid>e4b09923-70f0-4331-8f5d-f0c0913d6009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>36b9a552-2bdb-455b-bbaf-85cb30b0c5a8</webElementGuid>
+      <webElementGuid>a49a8ac1-bd6a-47a0-b84f-67169ec7b562</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>x</name>
       <type>Main</type>
       <value>198</value>
-      <webElementGuid>aa1e8951-1e37-40b0-9a8e-6ab46758158b</webElementGuid>
+      <webElementGuid>0ac8ae84-61c3-42db-b30a-217acd9ed726</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>y</name>
       <type>Main</type>
       <value>372</value>
-      <webElementGuid>b781d919-7077-40df-84d0-2beec3a22b4d</webElementGuid>
+      <webElementGuid>a53e9bc7-95ba-4f5c-a7c8-c8846c14b362</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>width</name>
       <type>Main</type>
       <value>241</value>
-      <webElementGuid>cd8d3c66-0f36-44f7-9bfc-37b3077beeda</webElementGuid>
+      <webElementGuid>43fc05c3-201a-48f2-a615-74c492ca35d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>height</name>
       <type>Main</type>
       <value>53</value>
-      <webElementGuid>05200088-48e1-4717-91bb-2695a18db6a7</webElementGuid>
+      <webElementGuid>f1b8f8a2-5d4d-46b4-908b-52a7329ccb8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[198,372][439,425]</value>
-      <webElementGuid>ba70250e-471a-4adf-abfd-7969f9e756d2</webElementGuid>
+      <webElementGuid>22ef8133-7cc0-469f-aad0-3890c5fdef47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5086e540-065d-4b1e-89f8-65ca13979efa</webElementGuid>
+      <webElementGuid>c2f7e473-7b12-4e38-a87f-97260a5b3e84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,24 +181,16 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.DatePicker[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]</value>
-      <webElementGuid>16ce690a-7470-47e0-abb5-b8abbae3a13b</webElementGuid>
+      <webElementGuid>37b0328d-15fd-4640-b5f6-e0be58b14ce6</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and (@text = 'Sun, Nov 17' or . = 'Sun, Nov 17') and @resource-id = 'android:id/date_picker_header_date']</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (@text = '' or . = '') and @resource-id = 'android:id/date_picker_header_date']</locator>
    <locatorCollection>
       <entry>
-         <key>ID</key>
-         <value>android:id/date_picker_header_date</value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.TextView' and (@text = '' or . = '') and @resource-id = 'android:id/date_picker_header_date']</value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
+         <key>ANDROID_VIEWTAG</key>
          <value></value>
       </entry>
       <entry>
@@ -206,31 +198,39 @@
          <value>new UiSelector().className(&quot;android.widget.TextView&quot;).text(&quot;Sun, Nov 17&quot;).resourceId(&quot;android:id/date_picker_header_date&quot;).packageName(&quot;com.avinashproduct.todo&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
       </entry>
       <entry>
+         <key>CLASS_NAME</key>
+         <value>android.widget.TextView</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**[`enabled == 1`]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>android:id/date_picker_header_date</value>
+      </entry>
+      <entry>
          <key>CUSTOM</key>
          <value></value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.TextView' and (@text = 'Sun, Nov 17' or . = 'Sun, Nov 17') and @resource-id = 'android:id/date_picker_header_date']</value>
-      </entry>
-      <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value></value>
+         <value>enabled == 1</value>
       </entry>
       <entry>
-         <key>IOS_CLASS_CHAIN</key>
+         <key>ACCESSIBILITY</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.TextView</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.DatePicker[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]</value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <key>NAME</key>
          <value></value>
       </entry>
    </locatorCollection>

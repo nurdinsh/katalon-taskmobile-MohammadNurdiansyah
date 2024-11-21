@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Verify Delete Catagory Cencel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fe55f35-ab8c-4e3c-96c9-8c9421fd860d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1f1f29f-c947-482e-af72-9f93aa884806</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Shopping'</defaultValue>
+      <description></description>
+      <id>a1f1f29f-c947-482e-af72-9f93aa884806</id>
+      <masked>false</masked>
+      <name>CatagoryNameDelete</name>
+   </variable>
+</TestCaseEntity>

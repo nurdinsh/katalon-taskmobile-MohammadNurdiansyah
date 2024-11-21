@@ -15,14 +15,14 @@
       <guid>61fdcfc6-69cd-4a9c-b29d-9e4b11c15bce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Delete Task/TC01_Verify Delete Task Successfully</testCaseId>
+      <testCaseId>Test Cases/Function/TC_Delete Task/TC01_Verify Delete Task Successfully</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>4e0cd514-3e76-489c-8acb-caa5f0eddb0b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Delete Task/TC02_Verify Cencel Delete Task</testCaseId>
+      <testCaseId>Test Cases/Function/TC_Delete Task/TC02_Verify Cencel Delete Task</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

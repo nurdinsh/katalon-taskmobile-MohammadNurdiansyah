@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Verify Add Catagory Cencel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>564661a8-7687-41b9-941d-a4160f7b69df</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>113d9160-9369-46cb-8dce-b2b049ec3fec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Bootcamp'</defaultValue>
+      <description></description>
+      <id>113d9160-9369-46cb-8dce-b2b049ec3fec</id>
+      <masked>false</masked>
+      <name>AddCatagorys</name>
+   </variable>
+</TestCaseEntity>

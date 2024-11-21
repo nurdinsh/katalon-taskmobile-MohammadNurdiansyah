@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Verify Add, Edit, and Delete Catagory Successuflly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c998c5f0-0c6f-4f17-86d8-90f2186495ac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8fce8e7-e565-4804-8adc-2a7addf2d60c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3e1a73c-b347-408e-a873-091c088fee40</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Bootcamp'</defaultValue>
+      <description></description>
+      <id>e8fce8e7-e565-4804-8adc-2a7addf2d60c</id>
+      <masked>false</masked>
+      <name>AddCatagorys</name>
+   </variable>
+   <variable>
+      <defaultValue>'TAK'</defaultValue>
+      <description></description>
+      <id>a3e1a73c-b347-408e-a873-091c088fee40</id>
+      <masked>false</masked>
+      <name>EditCatagorys</name>
+   </variable>
+</TestCaseEntity>

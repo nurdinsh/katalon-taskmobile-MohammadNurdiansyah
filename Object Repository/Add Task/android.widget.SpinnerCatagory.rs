@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.SpinnerCatagory</name>
    <tag></tag>
-   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <elementGuidId>e84c8118-e446-4ca9-8503-bd3455780744</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.Spinner</value>
-      <webElementGuid>e83a284e-efa0-45bf-825d-003418924a8a</webElementGuid>
+      <webElementGuid>30e00a09-4457-4ea0-a82b-75aa35c1e335</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cb8f8112-64a9-4211-93e4-6590861c8c0d</webElementGuid>
+      <webElementGuid>38317d2d-c49f-4fec-a21b-a760f2a22b83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.avinashproduct.todo:id/spinnerCategory</value>
-      <webElementGuid>239db882-0a28-4281-b468-04b6401fa049</webElementGuid>
+      <webElementGuid>e6c65d56-2ecc-4394-a500-84e47a4cecdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.avinashproduct.todo</value>
-      <webElementGuid>275ce903-0f2d-4e62-b59a-104f02225bc0</webElementGuid>
+      <webElementGuid>cc3f3760-4cb9-4030-84f7-8f03cfe5d889</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4b197af0-b97a-4a40-a317-4c85b533a6be</webElementGuid>
+      <webElementGuid>9d828220-29b9-41b9-9722-45e079531bd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8de62f7e-4794-4c12-9469-5be468949f56</webElementGuid>
+      <webElementGuid>0068cb2b-5624-4b26-a256-222dc3174c48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>34434cdd-20c6-402b-ad69-c59d5a644308</webElementGuid>
+      <webElementGuid>55d9bbd3-90b8-447e-82a8-85f36b867075</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>7898c65f-bb98-47b4-b3f1-9e1fe9f9ac04</webElementGuid>
+      <webElementGuid>2d27b426-ab9e-407b-9c02-383f9a51b980</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5e31b8c9-69af-494b-bd65-e757271585c0</webElementGuid>
+      <webElementGuid>6d93e838-4604-4e0e-9f14-cad238130f9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1fdc23dc-8701-4172-928f-de2e0f400540</webElementGuid>
+      <webElementGuid>ffcdbcb1-7951-44ad-a3d4-07c1c608a340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c5391391-1837-4d51-8734-fef1c467189b</webElementGuid>
+      <webElementGuid>95321556-d679-4e20-b0b1-eae2cef5a5ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>480b8524-eaf2-4a5a-bb3b-4539d135c3de</webElementGuid>
+      <webElementGuid>392a6935-7b7c-4551-8c7a-8f351cfa34ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f688e4cf-6bb7-43da-935b-c9cceb43035c</webElementGuid>
+      <webElementGuid>ca800a25-2762-4d21-82d2-f2d35daa378c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>df36341a-3780-409e-8368-41fba9aec784</webElementGuid>
+      <webElementGuid>9bdf64b8-4462-4660-89d1-57baf11042ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>x</name>
       <type>Main</type>
       <value>21</value>
-      <webElementGuid>1c276de4-00ad-4649-b63c-e0e9929c82ef</webElementGuid>
+      <webElementGuid>896e89b0-6edf-4f81-977f-e4772950bfad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>y</name>
       <type>Main</type>
       <value>499</value>
-      <webElementGuid>e0d0d893-668f-45a7-96e6-e253911ae1ea</webElementGuid>
+      <webElementGuid>6f941724-73af-42f4-93dc-0868bfa192df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>width</name>
       <type>Main</type>
       <value>705</value>
-      <webElementGuid>16783808-1db4-4beb-afe8-47833e790999</webElementGuid>
+      <webElementGuid>58da27a0-7f82-49a2-a78b-7def06abeac3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>height</name>
       <type>Main</type>
       <value>32</value>
-      <webElementGuid>dfc39050-64fb-498b-bd75-de8349c9ec3c</webElementGuid>
+      <webElementGuid>6add7155-ab1c-4cdc-85af-8615898024f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[21,499][726,531]</value>
-      <webElementGuid>1be97ea5-3485-4fb7-b8c8-9051a9b35614</webElementGuid>
+      <webElementGuid>bc17abbb-7c2d-44e0-882c-db9ce0aa5b94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>866e670e-2018-4f7d-be83-ea0fc3b80860</webElementGuid>
+      <webElementGuid>74c92b33-e324-4286-9f1a-d3edef45327a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -173,7 +173,7 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>69beda3d-4939-49a1-bf55-92169a01bccd</webElementGuid>
+      <webElementGuid>1c301bd6-9a91-48b3-a9fb-d57e6fc773ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,13 +181,13 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.widget.RelativeLayout[2]/android.widget.Spinner[1]</value>
-      <webElementGuid>c38ce809-ca92-4e66-80a8-19b66301946f</webElementGuid>
+      <webElementGuid>49da8bf5-2313-43ac-b5ed-b9a57b22ea3c</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.Spinner' and @resource-id = 'com.avinashproduct.todo:id/spinnerCategory' and (@text = '' or . = '')]</locator>
    <locatorCollection>
       <entry>
-         <key>ID</key>
-         <value>com.avinashproduct.todo:id/spinnerCategory</value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.Spinner' and @resource-id = 'com.avinashproduct.todo:id/spinnerCategory' and (@text = '' or . = '')]</value>
       </entry>
       <entry>
          <key>NAME</key>
@@ -198,8 +198,12 @@
          <value></value>
       </entry>
       <entry>
-         <key>ACCESSIBILITY</key>
-         <value></value>
+         <key>CLASS_NAME</key>
+         <value>android.widget.Spinner</value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>enabled == 1</value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
@@ -210,20 +214,12 @@
          <value></value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.Spinner' and @resource-id = 'com.avinashproduct.todo:id/spinnerCategory' and (@text = '' or . = '')]</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
+         <key>ACCESSIBILITY</key>
          <value></value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.Spinner</value>
+         <value>**[`enabled == 1`]</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -232,6 +228,10 @@
       <entry>
          <key>ANDROID_VIEWTAG</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>com.avinashproduct.todo:id/spinnerCategory</value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

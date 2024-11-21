@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Verify Delete Catagory Successuflly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e63f7d3-49a1-4d18-935f-6df4df705ea6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>030cab63-0f56-45b5-a499-30b26055a9a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Shopping'</defaultValue>
+      <description></description>
+      <id>030cab63-0f56-45b5-a499-30b26055a9a0</id>
+      <masked>false</masked>
+      <name>CatagoryNameDelete</name>
+   </variable>
+</TestCaseEntity>

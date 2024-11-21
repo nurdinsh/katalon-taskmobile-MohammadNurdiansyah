@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Verify Add Task With Date Blank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d1a12a9-5ee7-435d-9a1d-b97ff812cc8e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca53d08a-ade4-478e-98ef-ddf3c25bf200</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5b197234-74e1-41c5-97b9-9498db5da4cc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1dd9592-61bc-4cad-91da-a73750e30094</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Automation Katalon'</defaultValue>
+      <description></description>
+      <id>ca53d08a-ade4-478e-98ef-ddf3c25bf200</id>
+      <masked>false</masked>
+      <name>TaskTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mobile Katalon Automations'</defaultValue>
+      <description></description>
+      <id>5b197234-74e1-41c5-97b9-9498db5da4cc</id>
+      <masked>false</masked>
+      <name>YourTask</name>
+   </variable>
+   <variable>
+      <defaultValue>'Personal'</defaultValue>
+      <description></description>
+      <id>a1dd9592-61bc-4cad-91da-a73750e30094</id>
+      <masked>false</masked>
+      <name>Catagorys</name>
+   </variable>
+</TestCaseEntity>

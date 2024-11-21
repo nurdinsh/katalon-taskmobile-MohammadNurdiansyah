@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Verify Update Catagory Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec9c207f-00a5-44a4-8fb6-dc78b80d5653</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>61f81406-ab60-4e13-ab8c-6f8775468fe8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4726f80d-24a0-41b0-8c57-e040d307f6bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Shopping'</defaultValue>
+      <description></description>
+      <id>61f81406-ab60-4e13-ab8c-6f8775468fe8</id>
+      <masked>false</masked>
+      <name>SameCatagoryName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Shopping'</defaultValue>
+      <description></description>
+      <id>4726f80d-24a0-41b0-8c57-e040d307f6bf</id>
+      <masked>false</masked>
+      <name>CatagoryNameEdit</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Verify Update Catagory Successuflly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e75224d-35e4-4554-819d-88744e82a73d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>360dbd32-e0d0-4d9a-bd9d-e494385c6600</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34f34ec1-6614-472b-b220-5bf789942ecf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Bootcamp'</defaultValue>
+      <description></description>
+      <id>360dbd32-e0d0-4d9a-bd9d-e494385c6600</id>
+      <masked>false</masked>
+      <name>CatagoryName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Shopping'</defaultValue>
+      <description></description>
+      <id>34f34ec1-6614-472b-b220-5bf789942ecf</id>
+      <masked>false</masked>
+      <name>CatagoryNameEdit</name>
+   </variable>
+</TestCaseEntity>
